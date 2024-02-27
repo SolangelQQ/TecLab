@@ -1,0 +1,16 @@
+.nom {
+    background-color: rgb(235, 170, 74); 
+    color: rgba(255, 255, 255, 0.973); 
+}
+
+
+.um {
+    background-color: rgb(233, 202, 217); 
+    color: black; 
+}
+
+
+div {
+    padding: 10px; 
+    margin-bottom: 5px; 
+}
